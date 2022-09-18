@@ -1,0 +1,14 @@
+#contenedorLogin{
+    margin-top: 25vh;
+}
+
+body {
+    background-color:rgb(88, 109, 136);
+}
+
+.card{
+    background-color:rgba(0, 0, 0, 0.247);
+}
+.animacion{
+    left: 0px; top: 0px;
+}

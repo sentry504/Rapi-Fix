@@ -1,0 +1,14 @@
+#contenedorLogin{
+    margin-top: 25vh;
+}
+
+.card{
+    background-color:rgba(0, 0, 0, 0.247);
+}
+
+#contenido {
+    position: absolute;
+}
+.animacion{
+    left: 0px; top: 0px;
+}

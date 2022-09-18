@@ -1,0 +1,20 @@
+
+body {
+    background-color:rgb(88, 109, 136);
+}
+
+#encabezado{
+    color:white;
+}
+
+.container{
+    margin-top: 20vh;
+}
+
+.w-lg-50{
+    font-size: large;
+}
+
+.card{
+    border-radius: 5%;
+}
